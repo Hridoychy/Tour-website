@@ -1,0 +1,19 @@
+.book{
+    width: 900px;
+    /* height: 100%; */
+}
+.add-service form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.add-service form input, textarea{
+    width: 40%;
+    margin-bottom: 10px;
+}
+.submit{
+    background-color: rgb(193, 193, 243);
+    color: white;
+    font-weight: bold;
+}

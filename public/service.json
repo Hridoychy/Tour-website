@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "nijhum dwip",
+        "img": "https://media-eng.dhakatribune.com/uploads/2020/08/caption-deers-grazing-in-nijhum-dwip-inundated-by-tidal-surges-and-incessant-rainfall-dhaka-tribune-1-1598622153735.jpg",
+        "price": 3500,
+        "date": "3 Day & 2 Night"
+    },
+    {
+        "id": 2,
+        "name": "bandarban",   
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/10/8f/6d/9a/kaptai-lake-rangamati.jpg",
+        "price": 6000,
+        "date": "2 Day & 3 Night"
+    },
+    {
+        "id": 3,
+        "name": "coxs bazar",
+        "img": "https://images.unsplash.com/photo-1587222318667-31212ce2828d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y294cyUyMGJhemFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "price": 5000,
+        "date": "2 Day & 3 Night"
+    },
+    {
+        "id": 4,
+        "name": "saint martin",
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/02/saint-martin-s-island-syed-zakir-hossain-1550144836438.jpg",
+        "price": 8500,
+        "date": "3Day & 2 Night"
+    },
+    {
+        "id": 5,
+        "name": "sundarban",
+        "img": "https://i.ytimg.com/vi/YAuMCIdWjHE/maxresdefault.jpg",
+        "price": 6000,
+        "date": "3 Day & 2 Night"
+    },
+    {
+        "id": 6,
+        "name": "ladakh  ",
+        "img": "https://static.toiimg.com/photo/85971601.cms",
+        "price": 20000,
+        "date": "1 month"
+    }
+]
